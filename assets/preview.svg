@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f7f2e9"/>
+  <rect x="28" y="28" width="1144" height="574" rx="8" fill="none" stroke="#cbb99e" stroke-width="2"/>
+  <rect x="43" y="43" width="1114" height="544" rx="6" fill="none" stroke="#e1d5c3"/>
+  <text x="600" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#ad8955">YOU ARE INVITED</text>
+  <path d="M490 205H710" stroke="#d6c5aa" stroke-width="2"/>
+  <text x="600" y="310" text-anchor="middle" font-family="Georgia,serif" font-size="62" fill="#40352d">Undangan Spesial</text>
+  <text x="600" y="390" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="27" fill="#786b60">Dengan penuh kebahagiaan, kami mengundang Anda</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="27" fill="#786b60">untuk membuka undangan ini</text>
+  <circle cx="600" cy="492" r="12" fill="none" stroke="#ad8955" stroke-width="2"/>
+  <text x="600" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="3" fill="#ad8955">A SPECIAL INVITATION</text>
+</svg>
